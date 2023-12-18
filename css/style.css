@@ -570,3 +570,17 @@ FOR MOBILE
     flex-direction: column;
   }
 }
+
+
+.sports-category2,
+.entertainment-category,
+.technology-category {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  padding: 2px 20px;
+  border-radius: 50px;
+  color: white;
+  margin: 0.5rem 0rem;
+  background-color: rgb(33, 255, 181);
+}
